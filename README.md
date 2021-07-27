@@ -1,6 +1,8 @@
 # CMSY++
 Official repository of the CMSY++ data-limited stock assessment method.
-If all these files are copied in the same directory, then the R-code will run after installing the required libraries.
+
+# Instructions
+All files should be copied in the same directory and the required libraries should be installed.
 
 # Main files to run the CMSY++ method
 CMSY++16.R: R-code executing the CMSY++ and BSM models
